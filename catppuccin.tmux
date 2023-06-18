@@ -50,8 +50,8 @@ main() {
   set message-command-style "fg=${thm_cyan},bg=${thm_gray},align=centre"
 
   # panes
-  set pane-border-style "fg=#000000"
-  set pane-active-border-style "fg=#000000"
+  set pane-border-style "fg=#0000000"
+  set pane-active-border-style "fg=#0000000"
 
   # windows
   setw window-status-activity-style "fg=${thm_fg},bg=${thm_bg},none"
